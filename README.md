@@ -9,6 +9,7 @@ Esse repositório é dedicado ao acompanhamento das minhas atividades na matéri
 
 Contes: 0h
 
-Questões avulsas: 0h
+Questões avulsas: 1h
+dia 06/03- 6 questoes de nivel mais basico
 
 Upsolving: 0h
