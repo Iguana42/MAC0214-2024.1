@@ -5,11 +5,13 @@ Esse repositório é dedicado ao acompanhamento das minhas atividades na matéri
 
 ## Perfil no codeforces: [iguana-espacial](https://codeforces.com/profile/Iguana-espacial)
 
-### Tempo total gasto: 0h
+### Tempo total gasto: 8h
 
-Contes: 0h
+Contes: 2h
+1 contest offline - 2 horas
 
-Questões avulsas: 1h
-dia 06/03- 6 questoes de nivel mais basico
+Questões avulsas: 6h
+dia 06/03- 6 questoes de nivel mais basico - 1 horas
+6 questoes nivel medio/dificil- 5 horas.
 
 Upsolving: 0h
