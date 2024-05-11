@@ -7,7 +7,7 @@ Esse repositório é dedicado ao acompanhamento das minhas atividades na matéri
 
 ### Tempo total gasto: 53h
 
-Contes: 12h  
+Contest: 12h  
 1 contest offline - 2 horas  
 1 contest online - 2 horas  
 1 contest online -2 horas  
