@@ -5,7 +5,7 @@ Esse repositório é dedicado ao acompanhamento das minhas atividades na matéri
 
 ## Perfil no codeforces: [iguana-espacial](https://codeforces.com/profile/Iguana-espacial)
 
-### Tempo total gasto: 100h
+### Tempo total gasto: 126h
 
 Contest: 26h  
 1 contest offline - 2 horas  
@@ -18,7 +18,7 @@ Contest: 26h
 maratona feminina- 4h  
 1 contest online - 2 horas  
 
-Questões avulsas: 46h  
+Questões avulsas: 72h  
 dia 06/03- 6 questoes de nivel mais basico - 1 horas  
 dia 13/03 6 questoes nivel medio/dificil- 5 horas.  
 semana3- 5 questoes nivel dificil-6 horas  
@@ -29,6 +29,11 @@ semana 7- 3 questoes nivel medio/dificil - 4 horas
 semana 8 - 5 questoes nivelmedio/dificil- 5 horas  
 semana 9 - 6 questoes nivel medio/dificil - 5 horas  
 semana 10 - 2 questoes nivel dificil sobre segtree- 4 horas
+semana 11 - 4 questoes nivel medio/dificil - 5 horas
+semana 12 - 6 questoes nivel medio/dificil - 6 horas
+semana 13 - 6 questoes nivel medio/dificil - 6 horas
+semana 14 - 4 questoes nivel medio/dificil - 4 horas
+semana 15 - 2 questoes nivel dificil - 5 horas
 
 
 
