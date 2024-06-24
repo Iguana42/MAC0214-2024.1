@@ -28,12 +28,12 @@ semada 6- 3 questoes nivel dificil - 5 horas
 semana 7- 3 questoes nivel medio/dificil - 4 horas  
 semana 8 - 5 questoes nivelmedio/dificil- 5 horas  
 semana 9 - 6 questoes nivel medio/dificil - 5 horas  
-semana 10 - 2 questoes nivel dificil sobre segtree- 4 horas
-semana 11 - 4 questoes nivel medio/dificil - 5 horas
-semana 12 - 6 questoes nivel medio/dificil - 6 horas
-semana 13 - 6 questoes nivel medio/dificil - 6 horas
-semana 14 - 4 questoes nivel medio/dificil - 4 horas
-semana 15 - 2 questoes nivel dificil - 5 horas
+semana 10 - 2 questoes nivel dificil sobre segtree- 4 horas  
+semana 11 - 4 questoes nivel medio/dificil - 5 horas  
+semana 12 - 6 questoes nivel medio/dificil - 6 horas  
+semana 13 - 6 questoes nivel medio/dificil - 6 horas  
+semana 14 - 4 questoes nivel medio/dificil - 4 horas  
+semana 15 - 2 questoes nivel dificil - 5 horas  
 
 
 
