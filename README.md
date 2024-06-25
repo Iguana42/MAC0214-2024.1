@@ -5,15 +5,16 @@ Esse repositório é dedicado ao acompanhamento das minhas atividades na matéri
 
 ## Perfil no codeforces: [iguana-espacial](https://codeforces.com/profile/Iguana-espacial)
 
-### Tempo total gasto: 126h
+### Tempo total gasto: 130h
 
-Contest: 26h  
+Contest: 30h  
 1 contest offline - 2 horas  
 1 contest online - 2 horas  
 1 contest online -2 horas  
 1 contest online -2 horas  
 1 contest online-(vjudge) - 4 horas(seletiva individual do maratonusp)  
-1 contest online-(vjudge) - 4 horas  (seletiva individual maratonusp)
+1 contest online-(vjudge) - 4 horas  (seletiva individual maratonusp)  
+1 contest online-(vjudge) - 4 horas(3prova da seletiva individual)  
 1 contest online- 2 horas  
 maratona feminina- 4h  
 1 contest online - 2 horas  
